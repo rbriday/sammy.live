@@ -1,0 +1,299 @@
+@media (min-width:320px) and (max-width: 575.98px) {
+
+    .navbar-brand img {
+        width: 85%;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #222;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding: 5px 12px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link::after {
+        display: none;
+    }
+    #banner .banner-text h1 {
+        font-size: 34px;
+    }
+    #banner .banner-text h1 span {
+        font-size: 32px;
+    }
+    #banner .abc {
+        position: absolute;
+        top: 57%;
+        transform: translateY(-50%);
+        text-align: left;
+        width: 100%;
+    }
+    #about .about-head h3 {
+        font-size: 30px;
+    }
+    #about .about-head h3::after {
+        top: 22px;
+    }
+    #about .about-content h4 {
+        font-size: 19px;
+    }
+    .bt_loging.about-btn {
+        margin-bottom: 22px;
+    }
+    .port-button {
+        text-align: center;
+        margin-bottom: 15px;
+        margin-top: 45px;
+    }
+    #works .port-button button {
+        padding: 5px 18px;
+        margin-right: 0px;
+        margin-bottom: 0;
+        margin-top: 0px;
+    }
+    #testimonial .slider-content p {
+        padding: 0 0;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    #contact .cont-warp input {
+        width: 92%;
+        margin: 10px 0px;
+    }
+    #contact .cont-warp textarea {
+        width: 92%;
+        margin: 0 0px;
+    }
+    #contact .bt_loging.cont-button {
+        margin-left: 0;
+    }
+    .rooter-warp-2 {
+        margin-top: 30px;
+    }
+    .wrap-2-head h4::after {
+        top: 48%;
+        left: 36%;
+    }
+    .wrap-2-text ul {
+        padding-top: 15px;
+    }
+    .footer-warp-3 {
+        text-align: center;
+    }
+    .wrap-3-head h4::after {
+        top: 52%;
+        left: 15%;
+    }
+    .wrap-3-text {
+        padding-top: 15px;
+    }
+    .footer-copy p {
+        line-height: 24px;
+        padding: 15px;
+    }
+    @media(min-width:480px) and (max-width:575.98px){
+        .wrap-2-head h4::after {
+            top: 48%;
+            left: 42%;
+        }
+        .wrap-3-head h4::after {
+            top: 52%;
+            left: 29%;
+        }
+        .wrap-1-text p {
+            padding-bottom: 11px;
+            padding: 0 58px;
+        }
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .navbar-brand img {
+        width: 85%;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #222;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding: 5px 12px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link::after {
+        display: none;
+    }
+    #banner .banner-text h1 {
+        font-size: 34px;
+    }
+    #banner .banner-text h1 span {
+        font-size: 32px;
+    }
+    #banner .abc {
+        position: absolute;
+        top: 57%;
+        transform: translateY(-50%);
+        text-align: left;
+        width: 100%;
+    }
+    #about .about-head h3 {
+        font-size: 30px;
+    }
+    #about .about-head h3::after {
+        top: 22px;
+    }
+    #about .about-content h4 {
+        font-size: 19px;
+    }
+    .bt_loging.about-btn {
+        margin-bottom: 22px;
+    }
+    #service .service-item-content h5 {
+        font-size: 20px;
+    }
+    .port-button {
+        text-align: center;
+        margin-bottom: 15px;
+        margin-top: 45px;
+    }
+    #works .port-button button {
+        padding: 5px 18px;
+        margin-right: 0px;
+        margin-bottom: 0;
+        margin-top: 0px;
+    }
+    #testimonial .slider-content p {
+        padding: 0 0;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    #contact .cont-warp input {
+        width: 92%;
+        margin: 10px 0px;
+    }
+    #contact .cont-warp textarea {
+        width: 92%;
+        margin: 0 0;
+        margin-top: 13px;
+    }
+    #contact .bt_loging.cont-button {
+        margin-left: 0;
+    }
+    .wrap-2-head h4::after {
+        top: 48%;
+        left: 36%;
+    }
+    .wrap-2-text ul {
+        padding-top: 15px;
+    }
+    .footer-warp-3 {
+        text-align: center;
+    }
+    .wrap-3-head h4::after {
+        top: 52%;
+        left: 15%;
+    }
+    .wrap-3-text {
+        padding-top: 15px;
+    }
+    .footer-copy p {
+        line-height: 24px;
+        padding: 15px;
+    }
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding: 0 6px;
+    }
+    #about .about-content h4 {
+        font-size: 20px;
+    }
+    .bt_loging.about-btn {
+        margin-bottom: 18px;
+    }
+    #about .timeline-item h4 {
+        font-size: 20px;
+    }
+    #service .service-item-content h5 {
+        font-size: 26px;
+    }
+    .card-title {
+        font-size: 20px;
+    }
+    #contact .cont-warp input {
+        width: 97%;
+        margin: 10px 0px;
+    }
+    #contact .cont-warp textarea {
+        width: 97%;
+        margin: 0 0;
+        margin-top: 13px;
+    }
+    #contact .bt_loging.cont-button {
+        margin-left: 0;
+    }
+    .wrap-2-head h4::after {
+        top: 48%;
+        left: 36%;
+    }
+    .wrap-2-text ul {
+        padding-top: 15px;
+    }
+    .footer-warp-3 {
+        text-align: center;
+    }
+    .wrap-3-head h4::after {
+        top: 52%;
+        left: 15%;
+    }
+    .wrap-3-text {
+        padding-top: 15px;
+    }
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .abc {
+        top: 57%;
+    }
+    #service .service-item-content h5 {
+        font-size: 24px;
+    }
+    #contact .cont-warp textarea {
+        width: 97%;
+        margin-left: 10px;
+    }
+    .wrap-2-head h4::after {
+        top: 17px;
+        left: 70px;
+    }
+    .wrat-1-icon a i {
+        margin: 0 3px;
+    }
+
+}
+
+
+@media (min-width: 1200px) {
+
+
+}
+
